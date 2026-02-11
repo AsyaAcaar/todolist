@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.util.ArrayList;//we nwwd array structur to creat a to do list template
+import java.util.ArrayList;//we need array structur to creat a to do list template
 public class todolist {
     public static void main(String[] args){
         Scanner input=new Scanner(System.in);
